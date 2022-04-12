@@ -1,0 +1,20 @@
+.App{
+    display: flex;
+    margin: 20px;
+}
+
+.bar{
+    flex: 1;
+}
+
+.home{
+    flex: 4;
+}
+
+.homeWidget{
+    display: flex;
+}
+
+.lg{
+    flex: 4;
+}

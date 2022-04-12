@@ -1,0 +1,19 @@
+
+.button-group{
+    align-items: right;
+    margin-right: 20px;
+}
+
+.navbar{
+  background-color: #E30613;
+}
+
+.navbar-brand{
+  color:white;
+  margin-left: 10px;
+}
+
+.photo{
+  margin-right: 10px;
+  height: 75px;
+}
