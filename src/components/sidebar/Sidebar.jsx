@@ -28,20 +28,20 @@ export default function Sidebar() {
                     </li>
                     <li className="sidebarListItem">
                         <AcUnit className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/092557670e4b4000?lower=now%28%29%20-%207d">Température</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/092557670e4b4000?lower=now%28%29%20-%207d">Température</a>
                         
                     </li>
                     <li className="sidebarListItem">
                         <OpacityIcon className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/0927ba907dce0000?lower=now%28%29%20-%207d">Humidité</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/0927ba907dce0000?lower=now%28%29%20-%207d">Humidité</a>
                     </li>
                     <li className="sidebarListItem">
                         <CompareArrows className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/0927b9fc488e0000?lower=now%28%29%20-%207d">Pression</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/0927b9fc488e0000?lower=now%28%29%20-%207d">Pression</a>
                     </li>
                     <li className="sidebarListItem">
                         <Waves className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/0925583ed0cb4000?lower=now%28%29%20-%207d">Fuite d'eau</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/0925583ed0cb4000?lower=now%28%29%20-%207d">Fuite d'eau</a>
                     </li>
                     <li className="sidebarListItem">
                         <BatteryFull className='sidebarIcon'/>
@@ -54,19 +54,19 @@ export default function Sidebar() {
                 <ul className="sidebarList">
                 <li className="sidebarListItem">
                         <AcUnit className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/092557670e4b4000?lower=now%28%29%20-%207d">Capteur température 1</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/092557670e4b4000?lower=now%28%29%20-%207d">Capteur température 1</a>
                     </li>
                     <li className="sidebarListItem">
                         <AcUnit className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/092555d9680b4000?lower=now%28%29%20-%207d">Capteur température 2</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/092555d9680b4000?lower=now%28%29%20-%207d">Capteur température 2</a>
                     </li>
                     <li className="sidebarListItem">
                         <AcUnit className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/092557f204cb4000?lower=now%28%29%20-%207d">Capteur température 3</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/092557f204cb4000?lower=now%28%29%20-%207d">Capteur température 3</a>
                     </li>
                     <li className="sidebarListItem">
                         <Waves className='sidebarIcon'/>
-                        <a className="lien" target= "_blank" href="http://192.168.50.129:8086/orgs/ac4d8437e43c0b98/dashboards/0925583ed0cb4000?lower=now%28%29%20-%207d">Capteur fuite d'eau 1</a>
+                        <a className="lien" target= "_blank" href="http://10.10.32.10:8086/orgs/ac4d8437e43c0b98/dashboards/0925583ed0cb4000?lower=now%28%29%20-%207d">Capteur fuite d'eau 1</a>
                     </li>
                 </ul>
             </div>
